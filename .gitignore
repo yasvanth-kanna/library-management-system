@@ -1,0 +1,9 @@
+# Compiled binary
+library
+library.exe
+*.o
+
+# Generated data files (created at runtime, not part of source)
+books.txt
+members.txt
+temp_books.txt
